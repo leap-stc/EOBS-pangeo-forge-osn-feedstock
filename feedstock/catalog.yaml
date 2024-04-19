@@ -1,0 +1,20 @@
+# All the information important to cataloging.
+"ncviewjs:meta_yaml_url": "https://github.com/pangeo-forge/EOBS-feedstock/blob/main/feedstock/meta.yaml"
+tags:
+  - zarr
+  - climate
+  - regional
+  - osn
+  - open-storage-network
+  - europe
+stores:
+  - id: "eobs-wind-speed"
+    url: "https://ncsa.osn.xsede.org/Pangeo/pangeo-forge/pangeo-forge/EOBS-feedstock/eobs-wind-speed.zarr"
+
+  - id: "eobs-tg-tn-tx-rr-hu-pp"
+    url: "https://ncsa.osn.xsede.org/Pangeo/pangeo-forge/pangeo-forge/EOBS-feedstock/eobs-tg-tn-tx-rr-hu-pp.zarr"
+
+  - id: "eobs-surface-downwelling"
+    url: "https://ncsa.osn.xsede.org/Pangeo/pangeo-forge/pangeo-forge/EOBS-feedstock/eobs-surface-downwelling.zarr"
+
+
